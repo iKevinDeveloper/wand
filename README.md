@@ -15,7 +15,7 @@ $ sudo chmod +x /usr/local/bin/docker-compose
 
 **Step 2** Clone the repository & submodules
 ```bash
-$ git clone --recurse-submodules https://github.com/solero/wand && cd wand
+$ git clone --recurse-submodules https://github.com/iKevinDeveloper/wand && cd wand
 ```
 
 **Step 3** Edit the config file
